@@ -1,4 +1,5 @@
 package searchalg;
+/* Program to compare different search algorithms */
 
 public class SearchAlg {
 
